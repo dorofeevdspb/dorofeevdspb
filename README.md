@@ -5,4 +5,13 @@
 dorofeev.d.spb@gmail.com  
 [GnuPG publik key](dorofeevdspb.publik.key)
 
-curl -fsSLo ~/.ssh/authorized_key https://github.com/dorofeevdspb.keys
+```sh
+
+curl -fsSLo ~/.ssh/authorized_keys https://github.com/dorofeevdspb.keys
+
+```
+
+https://github.com/dorofeevdspb.keys  
+https://github.com/dorofeevdspb.gpg  
+
+
